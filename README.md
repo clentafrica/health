@@ -29,3 +29,35 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/clent-africa/health.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd health
+```
+
+### Usage
+
+1. **Data Analysis**: Use the provided scripts and tools for data analysis.
+2. **Reporting**: Follow the guidelines in `docs/reporting.md` for creating reports.
+3. **Community Outreach**: Refer to `docs/community-outreach.md` for engagement strategies.
+
+## Contributing
+
+We welcome contributions from researchers, health professionals, and community members. Please refer to `CONTRIBUTING.md` for guidelines on how to get involved.
+
+## Contact
+
+For questions or additional information, please contact us at:
+
+- Email: health@clentafrica.org
+- Twitter: [@CLENTAfrica](https://twitter.com/CLENTAfrica)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for your interest and support in improving health outcomes related to climate change in Africa!
